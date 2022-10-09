@@ -18,11 +18,17 @@ Here are some ideas to get you started:
 
 
 > 🔗 Hardware, Data, and Bioinformatics geek (I use Arch btw)
+
 > 🍄 UIUC Electrical & Computer Engineering: Hardware, Data, and Bioinformatics
+
 > 🌱 I’m currently learning: DRAGEN-GATK, FPGAs, RUST
+
 > 😄 Joys: badminton, comics, cooking w/fam   
+
 > ▶️ Currently: Registration Director @ IEEE Region 4 Student Leadership Conference 2023, Analytics Intern @ Advanced Genomics Institute and Laboratory Medicine   
+
 > ⏪ Previously: Research Intern @ National Center for Supercomputing Applications, Research Intern @ Coordinated Science Laboratory, Region 4 Ambassador @ IEEE  
+
 > 📍 NYC, NY   
 
 > 📫Reach me: @ varenya3 at illinois.edu @ varenyaj on LinkedIn 
