@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 > 📍 NYC, NY   
 
 > 📫Reach me: @ varenya3 at illinois.edu @ varenyaj on LinkedIn 
+<img src="https://media1.tenor.com/images/c431dd7de99862ddb61c5d5f6d56041c/tenor.gif?itemid=18636675"></img>
