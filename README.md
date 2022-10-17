@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 > 🔗 Hardware, Data, and Bioinformatics geek (I use Arch btw)
 
+> 💬 Awesome-ish software engineer, Maker, Designer, sometime Mechanical Engineer, Do-Everything-er, Open Source Nut, Genius, passionate Linux user
+
 > 🍄 UIUC Electrical & Computer Engineering: Hardware, Data, and Bioinformatics
 
 > 🌱 I’m currently learning: DRAGEN-GATK, FPGAs, RUST
