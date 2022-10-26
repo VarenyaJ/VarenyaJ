@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!-- Profile -->
+<p align="center">
+  <b> Programming: </b><i> LC3 - C - C </i><br>
+  <b> Scripting: </b><i> Python 3 - Bash - Lua (learning) </i><br>
+  <b> Tools: </b><i> Git - VirtualBox - (Neo)Vim </i><br>
+  <b> Distro: </b><i> Arch Linux - Fedora </i>
+</p>
 
 > 🔗 Hardware, Data, and Bioinformatics geek (I use Arch btw)
 
