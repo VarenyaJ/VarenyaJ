@@ -16,16 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Profile -->
-<p align="center">
-  <b> Programming: </b><i> LC3 - C - C++ </i><br>
-  <b> Scripting: </b><i> Python - Bash - Lua </i><br>
-  <b> Tools: </b><i> Git - VirtualBox - (Neo)Vim </i><br>
-  <b> Distro: </b><i> Arch Linux - Fedora </i>
-</p>
-
-> 🔗 Hardware, Data, and Bioinformatics geek (I use Arch btw)
-
-> 💬 Awesome-ish software engineer, Maker, Designer, sometime Mechanical Engineer, Do-Everything-er, Open Source Nut, Genius, passionate Linux user
+> 🔗 Hardware and Bioinformatics geek (I use Arch btw)
 
 > 🍄 UIUC Integrative Biology & Electrical Engineering
 
