@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 > 🍄 UIUC Integrative Biology & Electrical Engineering
 
-> 🌱 I’m currently learning: DRAGEN-GATK, FPGAs, Metabolomics
+> 🌱 I’m currently learning: DRAGEN-GATK, Kernels, Human Phenotype Ontology
 
 > 😄 Joys: Badminton, Comics, and Finding new recipes   
 
-> ▶️ Currently: Research @ Carl R. Woese Institute for Genomic Biology
+> ▶️ Currently: Research @ Illinois Natural History Survey
 
-> ⏪ Previously: Research @ National Center for Supercomputing Applications, Research @ Coordinated Science Laboratory, IEEE Region 4 Committee
+> ⏪ Previously: Research @ Carl R. Woese Institute for Genomic Biology, Research @ National Center for Supercomputing Applications, Research @ Coordinated Science Laboratory, IEEE Region 4 Committee
 
 > 📍 New York, NY   
 
