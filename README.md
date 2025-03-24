@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 > 🍄 UIUC Integrative Biology & Electrical Engineering
 
-> 🌱 I’m currently learning: DRAGEN-GATK, Kernels, Human Phenotype Ontology
+> 🌱 I’m currently learning: DRAGEN-GATK, Fetal Ultrasounds, Human Phenotype Ontology
 
-> 😄 Joys: Badminton, Comics, and Finding new recipes   
+> 😄 Joys: Badminton, Comics, and Finding new recipes
 
-> ▶️ Currently: Research @ Illinois Natural History Survey
+> ▶️ Currently: Human Phenotype Ontology Research @ GA4GH, Incoming Software Developer @ Charité – Universitätsmedizin Berlin
 
-> ⏪ Previously: Research @ Carl R. Woese Institute for Genomic Biology, Research @ National Center for Supercomputing Applications, Research @ Coordinated Science Laboratory, IEEE Region 4 Committee
+> ⏪ Previously: Research @ Illinois Natural History Survey, Research @ Carl R. Woese Institute for Genomic Biology, Research @ National Center for Supercomputing Applications, Research @ Coordinated Science Laboratory, IEEE Region 4 Committee
 
 > 📍 New York, NY   
 
