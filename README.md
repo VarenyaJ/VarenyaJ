@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Profile -->
-> 🔗 Hardware and Bioinformatics geek (I use Arch btw 😄)
+> 🧬🧑🏾‍💻🪄 Hardware and Bioinformatics geek (I use Arch btw 😄)
 
 > 🎓 UIUC Integrative Biology & Electrical Engineering
 
@@ -36,4 +36,5 @@ Here are some ideas to get you started:
   > varenya3      at  illinois.edu
   > varenya.jain  at  bih-charite.de 
   > varenyaj      on  LinkedIn
+
 <img src="https://media1.tenor.com/images/c431dd7de99862ddb61c5d5f6d56041c/tenor.gif?itemid=18636675"></img>
